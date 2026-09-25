@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "user_admin_001",
+    "name": "Emergene Admin",
+    "email": "admin@emergene.com",
+    "passwordHash": "$2b$10$nJ0eGxX3oAFPWgd3Lcr4pu394Nbrb5IUpL4WTiXTEgAfkFoq2yuIG",
+    "phone": "+91 98765 00001",
+    "role": "admin",
+    "addresses": [
+      {
+        "id": "addr_1",
+        "title": "Headquarters",
+        "address": "Agricultural Trade Hub, Warehouse Plot 42",
+        "city": "Hubballi",
+        "state": "Karnataka",
+        "pinCode": "580024"
+      }
+    ],
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "user_cust_001",
+    "name": "Ramesh Patil",
+    "email": "farmer@example.com",
+    "passwordHash": "$2b$10$d.tOYaxk2F7VL.4vFCYLpOkNkufRdpy5tWm3WF2s98OdDstQBmi1y",
+    "phone": "+91 94801 23456",
+    "role": "customer",
+    "addresses": [
+      {
+        "id": "addr_cust_1",
+        "title": "Farm Address",
+        "address": "Survey No 48, Near Sugar Mill, Byadgi Road",
+        "city": "Haveri",
+        "state": "Karnataka",
+        "pinCode": "581110"
+      }
+    ],
+    "createdAt": "2026-02-10T10:30:00.000Z"
+  }
+]

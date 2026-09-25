@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" fill="none">
+  <g transform="translate(4, 6)">
+    <!-- Sprout / Shield Emblem -->
+    <rect width="48" height="48" rx="12" fill="#15803d"/>
+    <path d="M24,10 C16,16 14,26 18,34 C21,39 27,40 30,37 C34,33 34,24 24,10 Z" fill="#4ade80"/>
+    <path d="M24,20 C28,24 33,26 36,22 C37,28 32,34 26,34 C24,34 24,20 24,20 Z" fill="#86efac"/>
+    <circle cx="24" cy="38" r="2.5" fill="#fef08a"/>
+  </g>
+  <text x="64" y="30" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="20" fill="#14532d" letter-spacing="0.5">EMERGENE &amp; TOPGRO</text>
+  <text x="65" y="46" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#15803d" letter-spacing="1.5">AGRICULTURAL SOLUTIONS</text>
+</svg>

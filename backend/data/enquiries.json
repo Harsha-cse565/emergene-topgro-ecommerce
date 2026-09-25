@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "enq_001",
+    "name": "Manjunath K",
+    "phone": "+91 97312 88401",
+    "email": "manju.k@agrihelp.com",
+    "subject": "Bulk order pricing for Delite and YieldMax 19:19:19",
+    "message": "We have a farmers cooperative in Belagavi district needing 50 bags of YieldMax 19:19:19 and 20 buckets of Delite. Please share institutional rate and delivery timeline.",
+    "status": "new",
+    "createdAt": "2026-09-22T08:30:00.000Z"
+  },
+  {
+    "_id": "enq_002",
+    "name": "Venkatesh Rao",
+    "phone": "+91 94481 67239",
+    "email": "venkatesh.rao@paddypro.org",
+    "subject": "Availability of RNR Sona certified seeds",
+    "message": "Kindly inform how many bags of RNR Sona paddy seed are currently in stock for the upcoming sowing season.",
+    "status": "responded",
+    "createdAt": "2026-09-21T15:20:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Emergene & Topgro Agricultural E-Commerce Store",
+  "description": "Agricultural e-commerce store showcasing crop protection, plant nutrition, fertilizers, growth promoters, and seeds from Emergene & Topgro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

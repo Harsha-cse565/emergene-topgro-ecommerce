@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cat_1",
+    "name": "Fertilizers & Plant Nutrition",
+    "slug": "fertilizers-plant-nutrition",
+    "description": "Balanced macro-nutrients and high-potash solutions formulated for vigorous crop growth, flowering, and superior yield.",
+    "icon": "Sprout",
+    "count": 7,
+    "active": true
+  },
+  {
+    "id": "cat_2",
+    "name": "Micronutrients",
+    "slug": "micronutrients",
+    "description": "Essential zinc, boron, iron, and multivitamin soil and foliar supplements correcting micronutrient deficiencies.",
+    "icon": "Layers",
+    "count": 8,
+    "active": true
+  },
+  {
+    "id": "cat_3",
+    "name": "Fungicides",
+    "slug": "fungicides",
+    "description": "Broad-spectrum contact and systemic fungicides protecting crops against fungal blights, rusts, and leaf spots.",
+    "icon": "ShieldCheck",
+    "count": 6,
+    "active": true
+  },
+  {
+    "id": "cat_4",
+    "name": "Insecticides",
+    "slug": "insecticides",
+    "description": "Effective crop pest management solutions targeting chewing, sucking, and borer pests.",
+    "icon": "Bug",
+    "count": 14,
+    "active": true
+  },
+  {
+    "id": "cat_5",
+    "name": "Herbicides",
+    "slug": "herbicides",
+    "description": "Pre-emergence and post-emergence weedicides ensuring weed-free field preparation and standing crop protection.",
+    "icon": "Scissors",
+    "count": 4,
+    "active": true
+  },
+  {
+    "id": "cat_6",
+    "name": "Plant Growth Regulators",
+    "slug": "plant-growth-regulators",
+    "description": "Advanced formulations optimizing cell division, rooting, vegetative balance, flowering, and uniform fruit set.",
+    "icon": "TrendingUp",
+    "count": 14,
+    "active": true
+  },
+  {
+    "id": "cat_7",
+    "name": "Organic / Biological Products",
+    "slug": "organic-biological-products",
+    "description": "Natural immunizers, seaweed extracts, and humic biostimulants enhancing soil microbiome and plant vitality.",
+    "icon": "Leaf",
+    "count": 8,
+    "active": true
+  },
+  {
+    "id": "cat_8",
+    "name": "Seeds",
+    "slug": "seeds",
+    "description": "High-germination certified paddy and hybrid maize varieties developed for disease resistance and harvest potential.",
+    "icon": "Wheat",
+    "count": 4,
+    "active": true
+  },
+  {
+    "id": "cat_9",
+    "name": "Specialty Agricultural Products",
+    "slug": "specialty-agricultural-products",
+    "description": "Slow-release granules, bio-catalysts, soil conditioners, and targeted plant wellness aids.",
+    "icon": "Sparkles",
+    "count": 20,
+    "active": true
+  }
+]

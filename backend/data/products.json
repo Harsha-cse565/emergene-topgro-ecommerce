@@ -1,0 +1,2349 @@
+[
+  {
+    "_id": "prod_001",
+    "name": "Shield",
+    "slug": "shield",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/shield.jpg",
+      "/images/products/shield.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Shield from the official Emergene & Topgro 2026 Product Catalogue (Page 2). Category: Fungicides.",
+    "usedFor": "Organic plant fungicide / plant protection against fungal disease.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-001",
+    "featured": true,
+    "active": true,
+    "catalogPage": 2,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T17:00:00.868Z"
+  },
+  {
+    "_id": "prod_002",
+    "name": "revive",
+    "slug": "revive-bottle",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/revive-bottle.jpg",
+      "/images/products/revive-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic revive from the official Emergene & Topgro 2026 Product Catalogue (Page 2). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-002",
+    "featured": false,
+    "active": true,
+    "catalogPage": 2,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_003",
+    "name": "RizoGold",
+    "slug": "rizogold",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/rizogold.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic RizoGold from the official Emergene & Topgro 2026 Product Catalogue (Page 2). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-003",
+    "featured": false,
+    "active": true,
+    "catalogPage": 2,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_004",
+    "name": "Dinogard",
+    "slug": "dinogard",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/dinogard.jpg",
+      "/images/products/dinogard.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic Dinogard from the official Emergene & Topgro 2026 Product Catalogue (Page 2). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-004",
+    "featured": false,
+    "active": true,
+    "catalogPage": 2,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_005",
+    "name": "YieldMax 19:19:19",
+    "slug": "yieldmax-19-19-19",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-19-19-19.jpg",
+      "/images/products/yieldmax-19-19-19.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax 19:19:19 from the official Emergene & Topgro 2026 Product Catalogue (Page 3). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Balanced NPK nutrition.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 158,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 3413,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 158,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-005",
+    "featured": true,
+    "active": true,
+    "catalogPage": 3,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_006",
+    "name": "Almighty",
+    "slug": "almighty",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/almighty.jpg",
+      "/images/products/almighty.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Almighty from the official Emergene & Topgro 2026 Product Catalogue (Page 3). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management (Tolfenpyrad 15% EC shown on pack).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-006",
+    "featured": false,
+    "active": true,
+    "catalogPage": 3,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_007",
+    "name": "Sengen",
+    "slug": "sengen-granules",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/sengen-granules.jpg",
+      "/images/products/sengen-granules.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Sengen from the official Emergene & Topgro 2026 Product Catalogue (Page 3). Category: Specialty Agricultural Products.",
+    "usedFor": "Slow-release granule product; exact use not clearly stated in supplied material.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-007",
+    "featured": false,
+    "active": true,
+    "catalogPage": 3,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_008",
+    "name": "Grovel",
+    "slug": "grovel",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/grovel.jpg",
+      "/images/products/grovel.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Grovel from the official Emergene & Topgro 2026 Product Catalogue (Page 3). Category: Plant Growth Regulators.",
+    "usedFor": "Boosts crop growth.",
+    "packSizes": [
+      {
+        "size": "100 ml",
+        "price": 58,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 ml",
+        "price": 110,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 ml",
+        "price": 184,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 L",
+        "price": 310,
+        "priceAvailable": true
+      },
+      {
+        "size": "5 L",
+        "price": 1444,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 58,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-008",
+    "featured": true,
+    "active": true,
+    "catalogPage": 3,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_009",
+    "name": "Shield",
+    "slug": "shield-plant-guard",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/shield-plant-guard.jpg",
+      "/images/products/shield-plant-guard.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Shield from the official Emergene & Topgro 2026 Product Catalogue (Page 4). Category: Fungicides.",
+    "usedFor": "Organic plant fungicide / plant protection against fungal disease.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-009",
+    "featured": false,
+    "active": true,
+    "catalogPage": 4,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_010",
+    "name": "KartapGard",
+    "slug": "kartapgard",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/kartapgard.jpg",
+      "/images/products/kartapgard.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic KartapGard from the official Emergene & Topgro 2026 Product Catalogue (Page 4). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-010",
+    "featured": false,
+    "active": true,
+    "catalogPage": 4,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_011",
+    "name": "Proctor",
+    "slug": "proctor",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/proctor.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Proctor from the official Emergene & Topgro 2026 Product Catalogue (Page 4). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management (Pymetrozine 50% WG).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-011",
+    "featured": false,
+    "active": true,
+    "catalogPage": 4,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_012",
+    "name": "Ankur Top",
+    "slug": "ankur-top",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/ankur-top.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Ankur Top from the official Emergene & Topgro 2026 Product Catalogue (Page 4). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Balanced soil nutrition.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 95,
+        "priceAvailable": true
+      },
+      {
+        "size": "5×10 kg",
+        "price": 740,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 1759,
+        "priceAvailable": true
+      },
+      {
+        "size": "50 kg",
+        "price": 3413,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 95,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-012",
+    "featured": true,
+    "active": true,
+    "catalogPage": 4,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_013",
+    "name": "Ammol",
+    "slug": "ammol",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/ammol.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Ammol from the official Emergene & Topgro 2026 Product Catalogue (Page 5). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-013",
+    "featured": false,
+    "active": true,
+    "catalogPage": 5,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_014",
+    "name": "Zotan",
+    "slug": "zotan",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/zotan.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Zotan from the official Emergene & Topgro 2026 Product Catalogue (Page 5). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-014",
+    "featured": false,
+    "active": true,
+    "catalogPage": 5,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_015",
+    "name": "BoroWin",
+    "slug": "borowin",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/borowin.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic BoroWin from the official Emergene & Topgro 2026 Product Catalogue (Page 5). Category: Micronutrients.",
+    "usedFor": "Improves fruit set.",
+    "packSizes": [
+      {
+        "size": "100 ml",
+        "price": 100,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 ml",
+        "price": 210,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 ml",
+        "price": 368,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 L",
+        "price": 683,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 100,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-015",
+    "featured": true,
+    "active": true,
+    "catalogPage": 5,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_016",
+    "name": "noris",
+    "slug": "noris",
+    "category": "Herbicides",
+    "images": [
+      "/images/products/noris.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic noris from the official Emergene & Topgro 2026 Product Catalogue (Page 5). Category: Herbicides.",
+    "usedFor": "Weedicide / pre-emergence weed management (Pretilachlor 50% EC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-HER-016",
+    "featured": false,
+    "active": true,
+    "catalogPage": 5,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_017",
+    "name": "Indigen Super",
+    "slug": "indigen-super",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/indigen-super.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Indigen Super from the official Emergene & Topgro 2026 Product Catalogue (Page 6). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-017",
+    "featured": false,
+    "active": true,
+    "catalogPage": 6,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_018",
+    "name": "Liberty",
+    "slug": "liberty-bottle",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/liberty-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Liberty from the official Emergene & Topgro 2026 Product Catalogue (Page 6). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-018",
+    "featured": false,
+    "active": true,
+    "catalogPage": 6,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_019",
+    "name": "Viraat RG",
+    "slug": "viraat-rg",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/viraat-rg.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Viraat RG from the official Emergene & Topgro 2026 Product Catalogue (Page 6). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-019",
+    "featured": false,
+    "active": true,
+    "catalogPage": 6,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_020",
+    "name": "Advent",
+    "slug": "advent-pouch",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/advent-pouch.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Advent from the official Emergene & Topgro 2026 Product Catalogue (Page 6). Category: Fungicides.",
+    "usedFor": "Organic fungicide / plant protection.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-020",
+    "featured": true,
+    "active": true,
+    "catalogPage": 6,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_021",
+    "name": "Amaron",
+    "slug": "amaron",
+    "category": "Crop Protection",
+    "images": [
+      "/images/products/amaron.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Amaron from the official Emergene & Topgro 2026 Product Catalogue (Page 7). Category: Crop Protection.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-CRO-021",
+    "featured": false,
+    "active": true,
+    "catalogPage": 7,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_022",
+    "name": "arise",
+    "slug": "arise",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/arise.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic arise from the official Emergene & Topgro 2026 Product Catalogue (Page 7). Category: Plant Growth Regulators.",
+    "usedFor": "Plant growth regulator; product pack indicates soil conditioning / water retention.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-022",
+    "featured": false,
+    "active": true,
+    "catalogPage": 7,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_023",
+    "name": "Titus Gold",
+    "slug": "titus-gold",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/titus-gold.jpg",
+      "/images/products/titus-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Titus Gold from the official Emergene & Topgro 2026 Product Catalogue (Page 7). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-023",
+    "featured": false,
+    "active": true,
+    "catalogPage": 7,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_024",
+    "name": "Thalak",
+    "slug": "thalak",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/thalak.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic Thalak from the official Emergene & Topgro 2026 Product Catalogue (Page 7). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-024",
+    "featured": false,
+    "active": true,
+    "catalogPage": 7,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_025",
+    "name": "Anmol",
+    "slug": "anmol-gold",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/anmol-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Anmol from the official Emergene & Topgro 2026 Product Catalogue (Page 8). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-025",
+    "featured": false,
+    "active": true,
+    "catalogPage": 8,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_026",
+    "name": "Maxam",
+    "slug": "maxam",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/maxam.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Maxam from the official Emergene & Topgro 2026 Product Catalogue (Page 8). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-026",
+    "featured": false,
+    "active": true,
+    "catalogPage": 8,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_027",
+    "name": "SenGen",
+    "slug": "sengen-box",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/sengen-box.jpg",
+      "/images/products/sengen-box.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic SenGen from the official Emergene & Topgro 2026 Product Catalogue (Page 8). Category: Organic / Biological Products.",
+    "usedFor": "Plant protector and immunizer.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-027",
+    "featured": false,
+    "active": true,
+    "catalogPage": 8,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_028",
+    "name": "Quantum Power",
+    "slug": "quantum-power",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/quantum-power.jpg",
+      "/images/products/quantum-power.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Quantum Power from the official Emergene & Topgro 2026 Product Catalogue (Page 8). Category: Organic / Biological Products.",
+    "usedFor": "Enhances plant health, nutrient uptake and root growth.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-028",
+    "featured": true,
+    "active": true,
+    "catalogPage": 8,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_029",
+    "name": "GroZinc",
+    "slug": "grozinc",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/grozinc.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic GroZinc from the official Emergene & Topgro 2026 Product Catalogue (Page 9). Category: Micronutrients.",
+    "usedFor": "Quick zinc correction.",
+    "packSizes": [
+      {
+        "size": "100 ml",
+        "price": 142,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 ml",
+        "price": 310,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 ml",
+        "price": 578,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 L",
+        "price": 1103,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 142,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-029",
+    "featured": true,
+    "active": true,
+    "catalogPage": 9,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_030",
+    "name": "TRIPLE",
+    "slug": "triple",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/triple.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic TRIPLE from the official Emergene & Topgro 2026 Product Catalogue (Page 9). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-030",
+    "featured": false,
+    "active": true,
+    "catalogPage": 9,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_031",
+    "name": "YieldMax 13:0:45",
+    "slug": "yieldmax-13-0-45",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-13-0-45.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax 13:0:45 from the official Emergene & Topgro 2026 Product Catalogue (Page 9). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "High potash nutrition.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 194,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 4331,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 194,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-031",
+    "featured": true,
+    "active": true,
+    "catalogPage": 9,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_032",
+    "name": "YieldMax MKP 00:52:34",
+    "slug": "yieldmax-mkp-00-52-34",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-mkp-00-52-34.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax MKP 00:52:34 from the official Emergene & Topgro 2026 Product Catalogue (Page 9). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Flowering and fruiting.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 310,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 7219,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 310,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-032",
+    "featured": true,
+    "active": true,
+    "catalogPage": 9,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_033",
+    "name": "Sindhu Gold",
+    "slug": "sindhu-gold",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/sindhu-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Sindhu Gold from the official Emergene & Topgro 2026 Product Catalogue (Page 10). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-033",
+    "featured": false,
+    "active": true,
+    "catalogPage": 10,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_034",
+    "name": "Bloomex",
+    "slug": "bloomex",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/bloomex.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Bloomex from the official Emergene & Topgro 2026 Product Catalogue (Page 10). Category: Plant Growth Regulators.",
+    "usedFor": "Plant growth regulator (Gibberellic Acid 0.001% shown on pack).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-034",
+    "featured": false,
+    "active": true,
+    "catalogPage": 10,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_035",
+    "name": "Indigen+",
+    "slug": "indigen-plus",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/indigen-plus.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Indigen+ from the official Emergene & Topgro 2026 Product Catalogue (Page 10). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-035",
+    "featured": false,
+    "active": true,
+    "catalogPage": 10,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_036",
+    "name": "Advent Plant Protector & Immunizer",
+    "slug": "advent-plant-protector",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/advent-plant-protector.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Advent Plant Protector & Immunizer from the official Emergene & Topgro 2026 Product Catalogue (Page 10). Category: Organic / Biological Products.",
+    "usedFor": "Plant protection and immunization.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-036",
+    "featured": false,
+    "active": true,
+    "catalogPage": 10,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_037",
+    "name": "Quantum Humic Seaweed Granules",
+    "slug": "quantum-humic-seaweed-granules",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/quantum-humic-seaweed-granules.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Quantum Humic Seaweed Granules from the official Emergene & Topgro 2026 Product Catalogue (Page 11). Category: Organic / Biological Products.",
+    "usedFor": "Promotes root growth, nutrient uptake, yield and soil health.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-037",
+    "featured": false,
+    "active": true,
+    "catalogPage": 11,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_038",
+    "name": "IMIDAAN",
+    "slug": "imidaan",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/imidaan.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic IMIDAAN from the official Emergene & Topgro 2026 Product Catalogue (Page 11). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management (Imidacloprid 30.5% SC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-038",
+    "featured": false,
+    "active": true,
+    "catalogPage": 11,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_039",
+    "name": "Delite",
+    "slug": "delite",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/delite.jpg",
+      "/images/products/delite.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Delite from the official Emergene & Topgro 2026 Product Catalogue (Page 11). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Complete crop nutrition.",
+    "packSizes": [
+      {
+        "size": "100 g",
+        "price": 63,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 g",
+        "price": 131,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 g",
+        "price": 226,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 kg",
+        "price": 436,
+        "priceAvailable": true
+      },
+      {
+        "size": "2 kg",
+        "price": 851,
+        "priceAvailable": true
+      },
+      {
+        "size": "5 kg",
+        "price": 2074,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 63,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-039",
+    "featured": true,
+    "active": true,
+    "catalogPage": 11,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_040",
+    "name": "Advent-B",
+    "slug": "advent-b",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/advent-b.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Advent-B from the official Emergene & Topgro 2026 Product Catalogue (Page 11). Category: Organic / Biological Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-040",
+    "featured": false,
+    "active": true,
+    "catalogPage": 11,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_041",
+    "name": "Calciwin",
+    "slug": "calciwin",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/calciwin.jpg",
+      "/images/products/calciwin.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Calciwin from the official Emergene & Topgro 2026 Product Catalogue (Page 12). Category: Micronutrients.",
+    "usedFor": "Strong fruits and pods.",
+    "packSizes": [
+      {
+        "size": "100 ml",
+        "price": 79,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 ml",
+        "price": 147,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 ml",
+        "price": 257,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 L",
+        "price": 499,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 79,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-041",
+    "featured": true,
+    "active": true,
+    "catalogPage": 12,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_042",
+    "name": "Alcazar",
+    "slug": "alcazar",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/alcazar.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Alcazar from the official Emergene & Topgro 2026 Product Catalogue (Page 12). Category: Insecticides.",
+    "usedFor": "Insecticide / plant protection; exact crop-use claim not stated in supplied material.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-042",
+    "featured": false,
+    "active": true,
+    "catalogPage": 12,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_043",
+    "name": "Top Zn",
+    "slug": "top-zn",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/top-zn.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Top Zn from the official Emergene & Topgro 2026 Product Catalogue (Page 12). Category: Micronutrients.",
+    "usedFor": "Corrects zinc deficiency.",
+    "packSizes": [
+      {
+        "size": "100 g",
+        "price": 89,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 g",
+        "price": 194,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 g",
+        "price": 373,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 kg",
+        "price": 730,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 89,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-043",
+    "featured": true,
+    "active": true,
+    "catalogPage": 12,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_044",
+    "name": "RoyalGard",
+    "slug": "royalgard-bottle-1",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/royalgard-bottle-1.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic RoyalGard from the official Emergene & Topgro 2026 Product Catalogue (Page 12). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management (Fipronil 5% SC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-044",
+    "featured": false,
+    "active": true,
+    "catalogPage": 12,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_045",
+    "name": "RNR Sona",
+    "slug": "rnr-sona",
+    "category": "Seeds",
+    "images": [
+      "/images/products/rnr-sona.jpg",
+      "/images/products/rnr-sona.svg"
+    ],
+    "brand": "MILANO",
+    "description": "Authentic RNR Sona from the official Emergene & Topgro 2026 Product Catalogue (Page 13). Category: Seeds.",
+    "usedFor": "Paddy seed variety.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SEE-045",
+    "featured": true,
+    "active": true,
+    "catalogPage": 13,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_046",
+    "name": "ComStar",
+    "slug": "comstar",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/comstar.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic ComStar from the official Emergene & Topgro 2026 Product Catalogue (Page 13). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-046",
+    "featured": false,
+    "active": true,
+    "catalogPage": 13,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_047",
+    "name": "BloomStar",
+    "slug": "bloomstar",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/bloomstar.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic BloomStar from the official Emergene & Topgro 2026 Product Catalogue (Page 13). Category: Plant Growth Regulators.",
+    "usedFor": "Plant growth regulator (Paclobutrazol 23% SC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-047",
+    "featured": false,
+    "active": true,
+    "catalogPage": 13,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_048",
+    "name": "Veera",
+    "slug": "veera-bottle",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/veera-bottle.jpg",
+      "/images/products/veera-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Veera from the official Emergene & Topgro 2026 Product Catalogue (Page 13). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-048",
+    "featured": false,
+    "active": true,
+    "catalogPage": 13,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_049",
+    "name": "Ranger Gold",
+    "slug": "ranger-gold",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/ranger-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Ranger Gold from the official Emergene & Topgro 2026 Product Catalogue (Page 14). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-049",
+    "featured": false,
+    "active": true,
+    "catalogPage": 14,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_050",
+    "name": "Quantum Maxx Combo",
+    "slug": "quantum-maxx-combo",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/quantum-maxx-combo.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Quantum Maxx Combo from the official Emergene & Topgro 2026 Product Catalogue (Page 14). Category: Organic / Biological Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-050",
+    "featured": false,
+    "active": true,
+    "catalogPage": 14,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_051",
+    "name": "Advent",
+    "slug": "advent-bottle",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/advent-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Advent from the official Emergene & Topgro 2026 Product Catalogue (Page 14). Category: Fungicides.",
+    "usedFor": "Organic fungicide / plant protection.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-051",
+    "featured": false,
+    "active": true,
+    "catalogPage": 14,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_052",
+    "name": "RoyalGard",
+    "slug": "royalgard-bottle-2",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/royalgard-bottle-2.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic RoyalGard from the official Emergene & Topgro 2026 Product Catalogue (Page 14). Category: Insecticides.",
+    "usedFor": "Insecticide for crop pest management (Fipronil 5% SC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-052",
+    "featured": false,
+    "active": true,
+    "catalogPage": 14,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_053",
+    "name": "Kiezer",
+    "slug": "kiezer",
+    "category": "Herbicides",
+    "images": [
+      "/images/products/kiezer.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Kiezer from the official Emergene & Topgro 2026 Product Catalogue (Page 15). Category: Herbicides.",
+    "usedFor": "Herbicide / weed management (Quizalofop Ethyl 10% EC).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-HER-053",
+    "featured": false,
+    "active": true,
+    "catalogPage": 15,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_054",
+    "name": "ABAMA",
+    "slug": "abama",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/abama.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic ABAMA from the official Emergene & Topgro 2026 Product Catalogue (Page 15). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-054",
+    "featured": false,
+    "active": true,
+    "catalogPage": 15,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_055",
+    "name": "Remedy Top",
+    "slug": "remedy-top",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/remedy-top.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Remedy Top from the official Emergene & Topgro 2026 Product Catalogue (Page 15). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Calcium, magnesium and sulphur supply.",
+    "packSizes": [
+      {
+        "size": "50 kg",
+        "price": 683,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 683,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-055",
+    "featured": true,
+    "active": true,
+    "catalogPage": 15,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_056",
+    "name": "ProGard SP",
+    "slug": "progard-sp",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/progard-sp.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic ProGard SP from the official Emergene & Topgro 2026 Product Catalogue (Page 15). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-056",
+    "featured": false,
+    "active": true,
+    "catalogPage": 15,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_057",
+    "name": "LUCAS",
+    "slug": "lucas-bottle",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/lucas-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic LUCAS from the official Emergene & Topgro 2026 Product Catalogue (Page 16). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-057",
+    "featured": false,
+    "active": true,
+    "catalogPage": 16,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_058",
+    "name": "Maxima Top",
+    "slug": "maxima-top",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/maxima-top.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Maxima Top from the official Emergene & Topgro 2026 Product Catalogue (Page 16). Category: Micronutrients.",
+    "usedFor": "Corrects zinc deficiency.",
+    "packSizes": [
+      {
+        "size": "5 kg",
+        "price": 320,
+        "priceAvailable": true
+      },
+      {
+        "size": "10 kg",
+        "price": 578,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 320,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-058",
+    "featured": true,
+    "active": true,
+    "catalogPage": 16,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_059",
+    "name": "revive",
+    "slug": "revive-pouch",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/revive-pouch.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic revive from the official Emergene & Topgro 2026 Product Catalogue (Page 16). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-059",
+    "featured": false,
+    "active": true,
+    "catalogPage": 16,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_060",
+    "name": "Liberty",
+    "slug": "liberty-pouch",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/liberty-pouch.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Liberty from the official Emergene & Topgro 2026 Product Catalogue (Page 16). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-060",
+    "featured": false,
+    "active": true,
+    "catalogPage": 16,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_061",
+    "name": "Ranger",
+    "slug": "ranger-bottle",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/ranger-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Ranger from the official Emergene & Topgro 2026 Product Catalogue (Page 17). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-061",
+    "featured": false,
+    "active": true,
+    "catalogPage": 17,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_062",
+    "name": "REYNOL",
+    "slug": "reynol",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/reynol.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic REYNOL from the official Emergene & Topgro 2026 Product Catalogue (Page 17). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-062",
+    "featured": false,
+    "active": true,
+    "catalogPage": 17,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_063",
+    "name": "ANMOL",
+    "slug": "anmol-bottle-2",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/anmol-bottle-2.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic ANMOL from the official Emergene & Topgro 2026 Product Catalogue (Page 17). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-063",
+    "featured": false,
+    "active": true,
+    "catalogPage": 17,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_064",
+    "name": "Acetagard",
+    "slug": "acetagard",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/acetagard.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic Acetagard from the official Emergene & Topgro 2026 Product Catalogue (Page 17). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-064",
+    "featured": false,
+    "active": true,
+    "catalogPage": 17,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_065",
+    "name": "Top Iron",
+    "slug": "top-iron",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/top-iron.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic Top Iron from the official Emergene & Topgro 2026 Product Catalogue (Page 18). Category: Micronutrients.",
+    "usedFor": "Prevents iron chlorosis.",
+    "packSizes": [
+      {
+        "size": "100 g",
+        "price": 110,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 g",
+        "price": 226,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 g",
+        "price": 431,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 kg",
+        "price": 835,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 110,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-065",
+    "featured": true,
+    "active": true,
+    "catalogPage": 18,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_066",
+    "name": "Glory",
+    "slug": "glory",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/glory.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Glory from the official Emergene & Topgro 2026 Product Catalogue (Page 18). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-066",
+    "featured": false,
+    "active": true,
+    "catalogPage": 18,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_067",
+    "name": "Activa",
+    "slug": "activa",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/activa.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Activa from the official Emergene & Topgro 2026 Product Catalogue (Page 18). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-067",
+    "featured": false,
+    "active": true,
+    "catalogPage": 18,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_068",
+    "name": "YODHA 405",
+    "slug": "yodha-405",
+    "category": "Seeds",
+    "images": [
+      "/images/products/yodha-405.svg"
+    ],
+    "brand": "MILANO",
+    "description": "Authentic YODHA 405 from the official Emergene & Topgro 2026 Product Catalogue (Page 18). Category: Seeds.",
+    "usedFor": "Research paddy / paddy seed product.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SEE-068",
+    "featured": true,
+    "active": true,
+    "catalogPage": 18,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_069",
+    "name": "CAPTAIN",
+    "slug": "captain",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/captain.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic CAPTAIN from the official Emergene & Topgro 2026 Product Catalogue (Page 19). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-069",
+    "featured": false,
+    "active": true,
+    "catalogPage": 19,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_070",
+    "name": "TITUS",
+    "slug": "titus-bottle",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/titus-bottle.jpg",
+      "/images/products/titus-bottle.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic TITUS from the official Emergene & Topgro 2026 Product Catalogue (Page 19). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-070",
+    "featured": false,
+    "active": true,
+    "catalogPage": 19,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_071",
+    "name": "Quantum Granules",
+    "slug": "quantum-granules",
+    "category": "Organic / Biological Products",
+    "images": [
+      "/images/products/quantum-granules.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Quantum Granules from the official Emergene & Topgro 2026 Product Catalogue (Page 19). Category: Organic / Biological Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-ORG-071",
+    "featured": false,
+    "active": true,
+    "catalogPage": 19,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_072",
+    "name": "MAZEGARD",
+    "slug": "mazegard",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/mazegard.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic MAZEGARD from the official Emergene & Topgro 2026 Product Catalogue (Page 19). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-072",
+    "featured": false,
+    "active": true,
+    "catalogPage": 19,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_073",
+    "name": "SAMRAT MS 7009",
+    "slug": "samrat-ms-7009",
+    "category": "Seeds",
+    "images": [
+      "/images/products/samrat-ms-7009.svg"
+    ],
+    "brand": "MILANO",
+    "description": "Authentic SAMRAT MS 7009 from the official Emergene & Topgro 2026 Product Catalogue (Page 20). Category: Seeds.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SEE-073",
+    "featured": false,
+    "active": true,
+    "catalogPage": 20,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_074",
+    "name": "YieldMax SOP 00:00:50",
+    "slug": "yieldmax-sop-00-00-50",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-sop-00-00-50.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax SOP 00:00:50 from the official Emergene & Topgro 2026 Product Catalogue (Page 20). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Premium potash source.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 163,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 3544,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 163,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-074",
+    "featured": true,
+    "active": true,
+    "catalogPage": 20,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_075",
+    "name": "THIOMET",
+    "slug": "thiomet",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/thiomet.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic THIOMET from the official Emergene & Topgro 2026 Product Catalogue (Page 20). Category: Fungicides.",
+    "usedFor": "Fungicide (Thiophanate Methyl 70% WP).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-075",
+    "featured": false,
+    "active": true,
+    "catalogPage": 20,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_076",
+    "name": "JUDO",
+    "slug": "judo",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/judo.jpg",
+      "/images/products/judo.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic JUDO from the official Emergene & Topgro 2026 Product Catalogue (Page 20). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-076",
+    "featured": false,
+    "active": true,
+    "catalogPage": 20,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_077",
+    "name": "YieldMax Calcium Nitrate",
+    "slug": "yieldmax-calcium-nitrate",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-calcium-nitrate.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax Calcium Nitrate from the official Emergene & Topgro 2026 Product Catalogue (Page 21). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Calcium and nitrogen supply.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 126,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 2620,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 126,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-077",
+    "featured": true,
+    "active": true,
+    "catalogPage": 21,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_078",
+    "name": "BORO TOP",
+    "slug": "boro-top",
+    "category": "Micronutrients",
+    "images": [
+      "/images/products/boro-top.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic BORO TOP from the official Emergene & Topgro 2026 Product Catalogue (Page 21). Category: Micronutrients.",
+    "usedFor": "Better flower and fruit set.",
+    "packSizes": [
+      {
+        "size": "100 g",
+        "price": 63,
+        "priceAvailable": true
+      },
+      {
+        "size": "250 g",
+        "price": 131,
+        "priceAvailable": true
+      },
+      {
+        "size": "500 g",
+        "price": 247,
+        "priceAvailable": true
+      },
+      {
+        "size": "1 kg",
+        "price": 473,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 63,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-MIC-078",
+    "featured": true,
+    "active": true,
+    "catalogPage": 21,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_079",
+    "name": "Liberty Gold",
+    "slug": "liberty-gold",
+    "category": "Plant Growth Regulators",
+    "images": [
+      "/images/products/liberty-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic Liberty Gold from the official Emergene & Topgro 2026 Product Catalogue (Page 21). Category: Plant Growth Regulators.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-PLA-079",
+    "featured": false,
+    "active": true,
+    "catalogPage": 21,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_080",
+    "name": "VEERA SP",
+    "slug": "veera-sp",
+    "category": "Insecticides",
+    "images": [
+      "/images/products/veera-sp.jpg",
+      "/images/products/veera-sp.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic VEERA SP from the official Emergene & Topgro 2026 Product Catalogue (Page 21). Category: Insecticides.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-INS-080",
+    "featured": false,
+    "active": true,
+    "catalogPage": 21,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_081",
+    "name": "LUCAS Gold",
+    "slug": "lucas-gold",
+    "category": "Specialty Agricultural Products",
+    "images": [
+      "/images/products/lucas-gold.svg"
+    ],
+    "brand": "EMERGENE",
+    "description": "Authentic LUCAS Gold from the official Emergene & Topgro 2026 Product Catalogue (Page 22). Category: Specialty Agricultural Products.",
+    "usedFor": "Information not available",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-SPE-081",
+    "featured": false,
+    "active": true,
+    "catalogPage": 22,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_082",
+    "name": "WEED WIPER",
+    "slug": "weed-wiper",
+    "category": "Herbicides",
+    "images": [
+      "/images/products/weed-wiper.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic WEED WIPER from the official Emergene & Topgro 2026 Product Catalogue (Page 22). Category: Herbicides.",
+    "usedFor": "Weedicide / weed management.",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-HER-082",
+    "featured": false,
+    "active": true,
+    "catalogPage": 22,
+    "itemOnPage": 2,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_083",
+    "name": "Combiguard",
+    "slug": "combiguard",
+    "category": "Fungicides",
+    "images": [
+      "/images/products/combiguard.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic Combiguard from the official Emergene & Topgro 2026 Product Catalogue (Page 22). Category: Fungicides.",
+    "usedFor": "Fungicide (Carbendazim 12% + Mancozeb 63% WP).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FUN-083",
+    "featured": false,
+    "active": true,
+    "catalogPage": 22,
+    "itemOnPage": 3,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_084",
+    "name": "GLUFOSTAR",
+    "slug": "glufostar",
+    "category": "Herbicides",
+    "images": [
+      "/images/products/glufostar.jpg",
+      "/images/products/glufostar.svg"
+    ],
+    "brand": "AMOOLYA",
+    "description": "Authentic GLUFOSTAR from the official Emergene & Topgro 2026 Product Catalogue (Page 22). Category: Herbicides.",
+    "usedFor": "Weedicide / weed management (Glufosinate Ammonium 13.5% SL).",
+    "packSizes": [],
+    "priceAvailable": false,
+    "startingPrice": 0,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-HER-084",
+    "featured": false,
+    "active": true,
+    "catalogPage": 22,
+    "itemOnPage": 4,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  },
+  {
+    "_id": "prod_085",
+    "name": "YieldMax MAP",
+    "slug": "yieldmax-map",
+    "category": "Fertilizers & Plant Nutrition",
+    "images": [
+      "/images/products/yieldmax-map.svg"
+    ],
+    "brand": "TOPGRO",
+    "description": "Authentic YieldMax MAP from the official Emergene & Topgro 2026 Product Catalogue (Page 23). Category: Fertilizers & Plant Nutrition.",
+    "usedFor": "Strong root development.",
+    "packSizes": [
+      {
+        "size": "1 kg",
+        "price": 273,
+        "priceAvailable": true
+      },
+      {
+        "size": "25 kg",
+        "price": 6295,
+        "priceAvailable": true
+      }
+    ],
+    "priceAvailable": true,
+    "startingPrice": 273,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "sku": "ET-FER-085",
+    "featured": true,
+    "active": true,
+    "catalogPage": 23,
+    "itemOnPage": 1,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-09-24T08:00:00.000Z"
+  }
+]
